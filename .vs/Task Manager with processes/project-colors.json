@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5822e4f5-68a5-4071-9612-a4966f047ce2": {
+      "ProjectGuid": "5822e4f5-68a5-4071-9612-a4966f047ce2",
+      "DisplayName": "Task Manager with processes",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

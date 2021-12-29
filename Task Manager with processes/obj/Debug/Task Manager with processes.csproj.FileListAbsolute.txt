@@ -1,0 +1,21 @@
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\bin\Debug\Task Manager with processes.exe.config
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\bin\Debug\Task Manager with processes.exe
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\bin\Debug\Task Manager with processes.pdb
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\Task Manager with processes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\App.g.cs
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\Task Manager with processes_MarkupCompile.cache
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\Task Manager with processes_MarkupCompile.lref
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\Task Manager with processes.g.resources
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\Task_Manager_with_processes.Properties.Resources.resources
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\Task Manager with processes.csproj.GenerateResource.cache
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\Task Manager with processes.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\Task Manager with processes.csproj.CopyComplete
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\Task Manager with processes.exe
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\Task Manager with processes.pdb
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\Views\MainWindow.baml
+C:\Users\Amiraslan\source\repos\Task Manager with processes\Task Manager with processes\obj\Debug\Task Manager with processes.csproj.AssemblyReference.cache
